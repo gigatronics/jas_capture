@@ -7,7 +7,7 @@ python script to remotely start multiple yi cameras
 - camera with start.sh file
 
 # usage:
-> python controller.py <cam1 ip> <cam2 ip> ...
+> python controller.py cam1_ip cam2_ip [...]
 
 # mac address:
 Ronaldo_mac_Addr = "58:70:C6:04:26:22"
