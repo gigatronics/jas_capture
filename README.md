@@ -10,6 +10,6 @@ python script to remotely start multiple yi cameras
 > python controller.py cam1_ip cam2_ip [...]
 
 # mac address:
-Ronaldo_mac_Addr = "58:70:C6:04:26:22"
-Messi_mac_Addr = "58:70:C6:2C:36:0C"
-Neymar_mac_Addr = "58:70:C6:33:D9:BB"
+- Ronaldo = "58:70:C6:04:26:22"
+- Messi = "58:70:C6:2C:36:0C"
+- Neymar = "58:70:C6:33:D9:BB"
